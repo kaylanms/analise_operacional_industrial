@@ -1,0 +1,1 @@
+# analise_operacional_industrial
