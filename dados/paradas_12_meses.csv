@@ -1,0 +1,215 @@
+Data,Unidade,Linha,Tipo_Parada,Duracao_Horas
+2024-01-05,Base Macaé,Linha B,Falha Mecanica,1.3
+2024-01-06,Base Macaé,Linha B,Manutencao Preventiva,1.2
+2024-01-07,Base Macaé,Linha C,Clima Offshore,3.4
+2024-01-12,Base Macaé,Linha C,Clima Offshore,3.3
+2024-01-13,Base Macaé,Linha B,Falta de Insumo,2.8
+2024-01-15,Base Macaé,Linha A,Manutencao Corretiva,2.6
+2024-01-16,Base Macaé,Linha B,Manutencao Corretiva,0.9
+2024-01-18,Base Macaé,Linha B,Falha Eletrica,2.1
+2024-01-20,Base Macaé,Linha A,Falha Eletrica,3.9
+2024-01-21,Base Macaé,Linha B,Falta de Insumo,1.1
+2024-01-22,Base Macaé,Linha B,Falta de Insumo,4.3
+2024-01-25,Base Macaé,Linha B,Clima Offshore,2.3
+2024-01-28,Base Macaé,Linha C,Falha Mecanica,5.6
+2024-01-29,Base Macaé,Linha A,Falha Eletrica,2.1
+2024-01-31,Base Macaé,Linha A,Clima Offshore,4.3
+2024-02-03,Base Macaé,Linha B,Manutencao Preventiva,1.3
+2024-02-04,Base Macaé,Linha C,Falha Eletrica,4.8
+2024-02-05,Base Macaé,Linha B,Manutencao Corretiva,4.3
+2024-02-06,Base Macaé,Linha B,Clima Offshore,4.0
+2024-02-07,Base Macaé,Linha B,Manutencao Preventiva,1.4
+2024-02-08,Base Macaé,Linha A,Falha Eletrica,2.1
+2024-02-10,Base Macaé,Linha A,Falha Mecanica,3.6
+2024-02-11,Base Macaé,Linha B,Falha Mecanica,1.5
+2024-02-12,Base Macaé,Linha B,Manutencao Preventiva,4.3
+2024-02-19,Base Macaé,Linha B,Falta de Insumo,2.2
+2024-02-22,Base Macaé,Linha C,Manutencao Corretiva,4.1
+2024-02-23,Base Macaé,Linha C,Falha Eletrica,2.5
+2024-02-24,Base Macaé,Linha A,Manutencao Preventiva,2.1
+2024-02-27,Base Macaé,Linha C,Falta de Insumo,5.2
+2024-02-29,Base Macaé,Linha C,Falha Eletrica,3.9
+2024-03-01,Base Macaé,Linha B,Falta de Insumo,1.7
+2024-03-02,Base Macaé,Linha C,Falta de Insumo,4.0
+2024-03-03,Base Macaé,Linha C,Falta de Insumo,3.7
+2024-03-04,Base Macaé,Linha B,Falta de Insumo,1.1
+2024-03-08,Base Macaé,Linha C,Falta de Insumo,3.0
+2024-03-09,Base Macaé,Linha B,Clima Offshore,3.7
+2024-03-11,Base Macaé,Linha B,Falha Mecanica,2.4
+2024-03-12,Base Macaé,Linha B,Falha Mecanica,1.0
+2024-03-13,Base Macaé,Linha B,Clima Offshore,4.1
+2024-03-14,Base Macaé,Linha C,Manutencao Preventiva,4.6
+2024-03-15,Base Macaé,Linha B,Clima Offshore,3.7
+2024-03-16,Base Macaé,Linha A,Falha Mecanica,2.4
+2024-03-18,Base Macaé,Linha B,Manutencao Preventiva,2.8
+2024-03-19,Base Macaé,Linha A,Falha Eletrica,2.6
+2024-03-20,Base Macaé,Linha A,Manutencao Preventiva,3.2
+2024-03-24,Base Macaé,Linha A,Falha Mecanica,3.8
+2024-03-25,Base Macaé,Linha B,Falta de Insumo,1.4
+2024-03-26,Base Macaé,Linha A,Falha Mecanica,4.0
+2024-03-27,Base Macaé,Linha B,Manutencao Corretiva,2.7
+2024-03-29,Base Macaé,Linha C,Manutencao Preventiva,3.1
+2024-03-30,Base Macaé,Linha C,Manutencao Preventiva,5.6
+2024-03-31,Base Macaé,Linha A,Clima Offshore,3.7
+2024-04-02,Base Macaé,Linha C,Falha Mecanica,2.9
+2024-04-04,Base Macaé,Linha A,Manutencao Preventiva,4.4
+2024-04-05,Base Macaé,Linha A,Manutencao Preventiva,3.0
+2024-04-06,Base Macaé,Linha C,Falha Eletrica,5.9
+2024-04-07,Base Macaé,Linha A,Clima Offshore,4.1
+2024-04-09,Base Macaé,Linha C,Manutencao Preventiva,4.1
+2024-04-11,Base Macaé,Linha A,Clima Offshore,4.2
+2024-04-13,Base Macaé,Linha C,Manutencao Preventiva,4.2
+2024-04-17,Base Macaé,Linha B,Falta de Insumo,2.4
+2024-04-18,Base Macaé,Linha B,Manutencao Corretiva,2.3
+2024-04-19,Base Macaé,Linha A,Falha Mecanica,3.7
+2024-04-20,Base Macaé,Linha B,Manutencao Corretiva,2.2
+2024-04-22,Base Macaé,Linha B,Manutencao Corretiva,2.4
+2024-04-23,Base Macaé,Linha B,Falta de Insumo,2.9
+2024-04-24,Base Macaé,Linha C,Manutencao Preventiva,5.5
+2024-04-25,Base Macaé,Linha A,Falha Mecanica,4.0
+2024-04-26,Base Macaé,Linha A,Falta de Insumo,4.0
+2024-04-27,Base Macaé,Linha B,Manutencao Corretiva,1.1
+2024-04-29,Base Macaé,Linha B,Falta de Insumo,2.4
+2024-05-01,Base Macaé,Linha A,Manutencao Preventiva,3.4
+2024-05-02,Base Macaé,Linha C,Falta de Insumo,5.2
+2024-05-04,Base Macaé,Linha A,Manutencao Corretiva,1.9
+2024-05-05,Base Macaé,Linha C,Manutencao Preventiva,4.0
+2024-05-06,Base Macaé,Linha B,Falha Eletrica,4.3
+2024-05-07,Base Macaé,Linha C,Manutencao Preventiva,3.1
+2024-05-10,Base Macaé,Linha C,Clima Offshore,4.3
+2024-05-11,Base Macaé,Linha B,Falta de Insumo,4.2
+2024-05-12,Base Macaé,Linha C,Clima Offshore,3.1
+2024-05-13,Base Macaé,Linha C,Manutencao Corretiva,3.6
+2024-05-14,Base Macaé,Linha A,Falha Mecanica,3.9
+2024-05-15,Base Macaé,Linha C,Falta de Insumo,1.9
+2024-05-16,Base Macaé,Linha C,Manutencao Preventiva,4.8
+2024-05-21,Base Macaé,Linha B,Falta de Insumo,2.3
+2024-05-22,Base Macaé,Linha C,Manutencao Preventiva,3.8
+2024-05-23,Base Macaé,Linha C,Falha Eletrica,3.2
+2024-05-25,Base Macaé,Linha A,Falha Eletrica,3.8
+2024-05-26,Base Macaé,Linha B,Clima Offshore,2.4
+2024-05-28,Base Macaé,Linha A,Manutencao Preventiva,0.8
+2024-05-29,Base Macaé,Linha C,Clima Offshore,2.0
+2024-05-30,Base Macaé,Linha A,Falta de Insumo,1.3
+2024-06-05,Base Macaé,Linha C,Clima Offshore,3.7
+2024-06-09,Base Macaé,Linha C,Falta de Insumo,4.4
+2024-06-10,Base Macaé,Linha C,Manutencao Preventiva,2.1
+2024-06-11,Base Macaé,Linha B,Falha Mecanica,3.3
+2024-06-16,Base Macaé,Linha C,Falta de Insumo,5.8
+2024-06-17,Base Macaé,Linha A,Falha Mecanica,2.1
+2024-06-18,Base Macaé,Linha A,Manutencao Corretiva,1.5
+2024-06-19,Base Macaé,Linha C,Manutencao Corretiva,6.0
+2024-06-20,Base Macaé,Linha A,Manutencao Corretiva,4.4
+2024-06-22,Base Macaé,Linha B,Falha Mecanica,2.5
+2024-06-24,Base Macaé,Linha C,Falha Eletrica,6.0
+2024-06-26,Base Macaé,Linha C,Manutencao Corretiva,3.9
+2024-06-27,Base Macaé,Linha A,Manutencao Corretiva,4.1
+2024-06-28,Base Macaé,Linha B,Falha Eletrica,2.1
+2024-06-30,Base Macaé,Linha B,Manutencao Preventiva,1.6
+2024-07-03,Base Macaé,Linha A,Manutencao Corretiva,3.4
+2024-07-06,Base Macaé,Linha B,Clima Offshore,2.1
+2024-07-07,Base Macaé,Linha B,Manutencao Corretiva,1.4
+2024-07-08,Base Macaé,Linha A,Falha Mecanica,2.9
+2024-07-10,Base Macaé,Linha C,Manutencao Preventiva,1.6
+2024-07-11,Base Macaé,Linha A,Falha Eletrica,4.3
+2024-07-12,Base Macaé,Linha B,Falha Mecanica,1.3
+2024-07-17,Base Macaé,Linha C,Clima Offshore,5.8
+2024-07-18,Base Macaé,Linha C,Falta de Insumo,5.0
+2024-07-19,Base Macaé,Linha C,Manutencao Corretiva,2.9
+2024-07-20,Base Macaé,Linha A,Manutencao Preventiva,2.0
+2024-07-21,Base Macaé,Linha A,Manutencao Preventiva,4.4
+2024-07-22,Base Macaé,Linha C,Clima Offshore,2.5
+2024-07-24,Base Macaé,Linha A,Falta de Insumo,2.4
+2024-07-27,Base Macaé,Linha B,Falha Eletrica,4.0
+2024-07-28,Base Macaé,Linha B,Falha Eletrica,1.0
+2024-07-30,Base Macaé,Linha A,Falha Eletrica,2.5
+2024-08-03,Base Macaé,Linha B,Falha Eletrica,1.7
+2024-08-04,Base Macaé,Linha C,Manutencao Preventiva,3.2
+2024-08-05,Base Macaé,Linha C,Falta de Insumo,3.7
+2024-08-07,Base Macaé,Linha C,Falha Mecanica,3.7
+2024-08-09,Base Macaé,Linha A,Falha Eletrica,3.7
+2024-08-10,Base Macaé,Linha C,Falta de Insumo,5.5
+2024-08-11,Base Macaé,Linha B,Manutencao Preventiva,3.0
+2024-08-13,Base Macaé,Linha C,Falha Eletrica,5.8
+2024-08-16,Base Macaé,Linha B,Falha Eletrica,1.7
+2024-08-19,Base Macaé,Linha B,Falha Eletrica,1.9
+2024-08-20,Base Macaé,Linha C,Falta de Insumo,3.3
+2024-08-21,Base Macaé,Linha A,Manutencao Preventiva,2.4
+2024-08-24,Base Macaé,Linha A,Manutencao Preventiva,1.7
+2024-08-25,Base Macaé,Linha C,Clima Offshore,4.7
+2024-08-28,Base Macaé,Linha B,Falha Mecanica,2.1
+2024-08-30,Base Macaé,Linha C,Manutencao Corretiva,2.1
+2024-09-01,Base Macaé,Linha C,Falha Eletrica,2.3
+2024-09-02,Base Macaé,Linha A,Falta de Insumo,3.4
+2024-09-04,Base Macaé,Linha B,Clima Offshore,3.6
+2024-09-05,Base Macaé,Linha A,Manutencao Preventiva,2.5
+2024-09-07,Base Macaé,Linha C,Falha Eletrica,4.0
+2024-09-08,Base Macaé,Linha C,Falha Mecanica,2.9
+2024-09-09,Base Macaé,Linha A,Clima Offshore,3.9
+2024-09-11,Base Macaé,Linha C,Falta de Insumo,3.4
+2024-09-13,Base Macaé,Linha C,Falta de Insumo,4.3
+2024-09-15,Base Macaé,Linha C,Manutencao Preventiva,4.1
+2024-09-17,Base Macaé,Linha C,Clima Offshore,5.7
+2024-09-18,Base Macaé,Linha C,Manutencao Preventiva,3.0
+2024-09-19,Base Macaé,Linha C,Falha Mecanica,2.4
+2024-09-25,Base Macaé,Linha B,Falta de Insumo,2.4
+2024-09-28,Base Macaé,Linha A,Clima Offshore,1.4
+2024-09-29,Base Macaé,Linha B,Clima Offshore,3.2
+2024-10-02,Base Macaé,Linha C,Clima Offshore,3.4
+2024-10-06,Base Macaé,Linha A,Clima Offshore,1.0
+2024-10-07,Base Macaé,Linha C,Clima Offshore,2.9
+2024-10-08,Base Macaé,Linha C,Falha Mecanica,4.1
+2024-10-09,Base Macaé,Linha B,Falha Mecanica,3.8
+2024-10-11,Base Macaé,Linha C,Falha Mecanica,5.2
+2024-10-15,Base Macaé,Linha C,Manutencao Preventiva,3.0
+2024-10-16,Base Macaé,Linha C,Falta de Insumo,3.2
+2024-10-17,Base Macaé,Linha A,Clima Offshore,4.3
+2024-10-18,Base Macaé,Linha C,Falta de Insumo,3.9
+2024-10-19,Base Macaé,Linha B,Manutencao Preventiva,2.5
+2024-10-20,Base Macaé,Linha A,Manutencao Corretiva,1.8
+2024-10-21,Base Macaé,Linha B,Manutencao Corretiva,4.0
+2024-10-25,Base Macaé,Linha A,Manutencao Corretiva,1.6
+2024-10-26,Base Macaé,Linha B,Manutencao Preventiva,4.3
+2024-10-27,Base Macaé,Linha C,Manutencao Corretiva,5.1
+2024-10-28,Base Macaé,Linha A,Falha Eletrica,2.2
+2024-10-29,Base Macaé,Linha B,Clima Offshore,2.1
+2024-10-30,Base Macaé,Linha B,Manutencao Corretiva,3.2
+2024-11-02,Base Macaé,Linha A,Falha Mecanica,3.7
+2024-11-03,Base Macaé,Linha C,Clima Offshore,4.7
+2024-11-06,Base Macaé,Linha A,Falha Eletrica,2.5
+2024-11-07,Base Macaé,Linha C,Manutencao Preventiva,4.3
+2024-11-09,Base Macaé,Linha C,Falha Mecanica,2.5
+2024-11-11,Base Macaé,Linha B,Clima Offshore,2.2
+2024-11-13,Base Macaé,Linha B,Falta de Insumo,2.2
+2024-11-14,Base Macaé,Linha B,Manutencao Corretiva,3.6
+2024-11-15,Base Macaé,Linha C,Clima Offshore,4.6
+2024-11-17,Base Macaé,Linha C,Falha Mecanica,4.5
+2024-11-18,Base Macaé,Linha B,Falta de Insumo,3.5
+2024-11-19,Base Macaé,Linha C,Falta de Insumo,3.0
+2024-11-20,Base Macaé,Linha C,Falha Eletrica,3.5
+2024-11-21,Base Macaé,Linha A,Manutencao Corretiva,4.0
+2024-11-22,Base Macaé,Linha A,Manutencao Preventiva,2.4
+2024-11-23,Base Macaé,Linha C,Manutencao Preventiva,1.8
+2024-11-25,Base Macaé,Linha B,Manutencao Corretiva,2.3
+2024-11-26,Base Macaé,Linha A,Manutencao Corretiva,2.8
+2024-11-28,Base Macaé,Linha B,Falta de Insumo,1.3
+2024-11-29,Base Macaé,Linha B,Falha Mecanica,4.3
+2024-12-02,Base Macaé,Linha B,Manutencao Corretiva,2.9
+2024-12-03,Base Macaé,Linha A,Falha Eletrica,2.8
+2024-12-04,Base Macaé,Linha C,Manutencao Corretiva,3.7
+2024-12-05,Base Macaé,Linha B,Falha Eletrica,1.9
+2024-12-07,Base Macaé,Linha B,Clima Offshore,3.2
+2024-12-08,Base Macaé,Linha C,Falha Mecanica,3.5
+2024-12-09,Base Macaé,Linha C,Manutencao Preventiva,5.4
+2024-12-10,Base Macaé,Linha A,Clima Offshore,2.7
+2024-12-11,Base Macaé,Linha A,Manutencao Preventiva,1.4
+2024-12-13,Base Macaé,Linha B,Manutencao Corretiva,3.0
+2024-12-14,Base Macaé,Linha A,Falha Eletrica,1.9
+2024-12-16,Base Macaé,Linha A,Falha Mecanica,2.7
+2024-12-19,Base Macaé,Linha C,Falha Eletrica,4.3
+2024-12-20,Base Macaé,Linha A,Manutencao Corretiva,2.9
+2024-12-21,Base Macaé,Linha C,Manutencao Corretiva,5.3
+2024-12-23,Base Macaé,Linha A,Clima Offshore,2.5
+2024-12-25,Base Macaé,Linha A,Manutencao Corretiva,2.5
+2024-12-26,Base Macaé,Linha A,Falha Mecanica,2.9
+2024-12-28,Base Macaé,Linha B,Falha Eletrica,3.7
